@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zhihu.com	TRUE	/	FALSE	1472178506	cap_id	"OTI2MTZiMmM4NWJlNGMyYTg4MzQ0ZmQ5MDViODlkMmQ=|1469586506|c75a403024532bd653c8ca5baef27781f43f6892"
+.zhihu.com	TRUE	/	FALSE	1472178506	l_cap_id	"NWM2NDBmYzY3ODJlNDk2ZTk2ODVkNDRlMTEwYTgzNDg=|1469586506|a5c10bceea7a16923c54cbfbb8190169719afdc8"
+.zhihu.com	TRUE	/	FALSE		l_n_c	1
+.zhihu.com	TRUE	/	FALSE		n_c	1
+.zhihu.com	TRUE	/	FALSE	1564194506	q_c1	2ad4cf8c58ab420fa309384847a770a4|1469586506000|1469586506000
+www.zhihu.com	FALSE	/	FALSE		_xsrf	e6c33e6cc1ca6020b2003dee317eeacb
